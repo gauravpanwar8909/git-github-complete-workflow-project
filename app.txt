@@ -1,6 +1,16 @@
-This is the main application file 
-Login feature added
-Signup feature added 
-UI VERSION: BACKEND
-UI VERSION: FRONTEND  
+Git & GitHub Workflow Demo
+
+Features implemented:
+- Login feature
+- Signup feature
+
+UI updates:
+- Frontend UI changes
+- Backend UI changes
+
+Merge conflict demonstration:
+- UI version conflict resolved successfully
+
+Final release:
+- develop branch merged into master
 
